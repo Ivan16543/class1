@@ -48,10 +48,8 @@ Medicine	Препарат — хранит название, производи�
 
 
 Компиляция через терминал
-bash
 g++ -std=c++17 -Wall -Wextra main.cpp Medicine.cpp PharmacyWarehouse.cpp -o pharmacy
 Запуск
-bash
 ./pharmacy
 
 👤 Автор
